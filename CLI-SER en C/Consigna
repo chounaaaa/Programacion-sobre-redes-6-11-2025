@@ -1,1 +1,1 @@
-
+Realizar un cliente-servidor en C para que el servidor una vez ejecutado, escuche y el cliente al mandar un mensaje (cualquier mensaje), lo reciba el servidor y devuelva un saludo.
