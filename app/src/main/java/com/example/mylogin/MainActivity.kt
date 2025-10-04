@@ -32,9 +32,9 @@ class MainActivity : AppCompatActivity() {
             val passwordI = passwordEditText.text.toString()
 
             if (emailI == email && passwordI == password) {
-                Toast.makeText(this, "✅ Se inició sesión exitosamente", Toast.LENGTH_LONG).show()
+                Toast.makeText(this, " se pudo iniciar sesión exitosamente", Toast.LENGTH_LONG).show()
             } else {
-                Toast.makeText(this, "❌ No se pudo iniciar sesión", Toast.LENGTH_LONG).show()
+                Toast.makeText(this, " no se pudo iniciar sesión papu", Toast.LENGTH_LONG).show()
             }
         }
     }
